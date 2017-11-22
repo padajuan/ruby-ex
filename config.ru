@@ -237,76 +237,39 @@ pre {
 </head>
 <body>
 
-<section class='container'>
-          <hgroup>
-            <h1>Welcome to your Ruby application on OpenShift</h1>
-          </hgroup>
+<!-- start slipsum code -->
 
+<h1>I gotta piss</h1>
+<p>Normally, both your asses would be dead as fucking fried chicken, but you happen to pull this shit while I'm in a transitional period so I don't wanna kill you, I wanna help you. But I can't give you this case, it don't belong to me. Besides, I've already been through too much shit this morning over this case to hand it over to your dumb ass. </p>
 
-        <div class="row">
-          <section class='col-xs-12 col-sm-6 col-md-6'>
-            <section>
-              <h2>Deploying code changes</h2>
-                <p>
-                  The source code for this application is available to be forked from the <a href="https://www.github.com/openshift/ruby-ex">OpenShift GitHub repository</a>.
-                  You can configure a webhook in your repository to make OpenShift automatically start a build whenever you push your code:
-                </p>
+<h1>No man, I don't eat pork</h1>
+<p>Do you see any Teletubbies in here? Do you see a slender plastic tag clipped to my shirt with my name printed on it? Do you see a little Asian child with a blank expression on his face sitting outside on a mechanical helicopter that shakes when you put quarters in it? No? Well, that's what you see at a toy store. And you must think you're in a toy store, because you're here shopping for an infant named Jeb. </p>
 
-<ol>
-  <li>From the Web Console homepage, navigate to your project</li>
-  <li>Click on Browse &gt; Builds</li>
-  <li>From the view for your Build click on the button to copy your GitHub webhook</li>
-  <li>Navigate to your repository on GitHub and click on repository settings &gt; webhooks</li>
-  <li>Paste your webhook URL provided by OpenShift &mdash; that's it!</li>
-</ol>
-<p>After you save your webhook, if you refresh your settings page you can see the status of the ping that Github sent to OpenShift to verify it can reach the server.</p>
-<p>Note: adding a webhook requires your OpenShift server to be reachable from GitHub.</p>
+<h1>No, motherfucker</h1>
+<p>Now that there is the Tec-9, a crappy spray gun from South Miami. This gun is advertised as the most popular gun in American crime. Do you believe that shit? It actually says that in the little book that comes with it: the most popular gun in American crime. Like they're actually proud of that shit.  </p>
 
-                <h3>Working in your local Git repository</h3>
-                <p>If you forked the application from the OpenShift GitHub example, you'll need to manually clone the repository to your local system. Copy the application's source code Git URL and then run:</p>
+<h1>Uuummmm, this is a tasty burger!</h1>
+<p>Normally, both your asses would be dead as fucking fried chicken, but you happen to pull this shit while I'm in a transitional period so I don't wanna kill you, I wanna help you. But I can't give you this case, it don't belong to me. Besides, I've already been through too much shit this morning over this case to hand it over to your dumb ass. </p>
 
-<pre>$ git clone &lt;git_url&gt; &lt;directory_to_create&gt;
+<h1>Is she dead, yes or no?</h1>
+<p>The path of the righteous man is beset on all sides by the iniquities of the selfish and the tyranny of evil men. Blessed is he who, in the name of charity and good will, shepherds the weak through the valley of darkness, for he is truly his brother's keeper and the finder of lost children. And I will strike down upon thee with great vengeance and furious anger those who would attempt to poison and destroy My brothers. And you will know My name is the Lord when I lay My vengeance upon thee. </p>
 
-# Within your project directory
-# Commit your changes and push to OpenShift
+<h1>Hold on to your butts</h1>
+<p>Now that we know who you are, I know who I am. I'm not a mistake! It all makes sense! In a comic, you know how you can tell who the arch-villain's going to be? He's the exact opposite of the hero. And most times they're friends, like you and me! I should've known way back when... You know why, David? Because of the kids. They called me Mr Glass. </p>
 
-$ git commit -a -m 'Some commit message'
-$ git push</pre>
+<h1>I can do that</h1>
+<p>Now that there is the Tec-9, a crappy spray gun from South Miami. This gun is advertised as the most popular gun in American crime. Do you believe that shit? It actually says that in the little book that comes with it: the most popular gun in American crime. Like they're actually proud of that shit.  </p>
 
-<p>After pushing changes, you'll need to manually trigger a build if you did not setup a webhook as described above.</p>
-      </section>
-          </section>
-          <section class="col-xs-12 col-sm-6 col-md-6">
+<h1>No, motherfucker</h1>
+<p>Now that there is the Tec-9, a crappy spray gun from South Miami. This gun is advertised as the most popular gun in American crime. Do you believe that shit? It actually says that in the little book that comes with it: the most popular gun in American crime. Like they're actually proud of that shit.  </p>
 
-                <h2>Managing your application</h2>
+<h1>Are you ready for the truth?</h1>
+<p>You think water moves fast? You should see ice. It moves like it has a mind. Like it knows it killed the world once and got a taste for murder. After the avalanche, it took us a week to climb out. Now, I don't know exactly when we turned on each other, but I know that seven of us survived the slide... and only five made it out. Now we took an oath, that I'm breaking now. We said we'd say it was the snow that killed the other two, but it wasn't. Nature is lethal but it doesn't hold a candle to man. </p>
 
-                <p>Documentation on how to manage your application from the Web Console or Command Line is available at the <a href="http://docs.openshift.org/latest/dev_guide/overview.html">Developer Guide</a>.</p>
+<h1>I can do that</h1>
+<p>My money's in that office, right? If she start giving me some bullshit about it ain't there, and we got to go someplace else and get it, I'm gonna shoot you in the head then and there. Then I'm gonna shoot that bitch in the kneecaps, find out where my goddamn money is. She gonna tell me too. Hey, look at me when I'm talking to you, motherfucker. You listen: we go in there, and that nigga Winston or anybody else is in there, you the first motherfucker to get shot. You understand? </p>
 
-                <h3>Web Console</h3>
-                <p>You can use the Web Console to view the state of your application components and launch new builds.</p>
-
-                <h3>Command Line</h3>
-                <p>With the <a href="http://docs.openshift.org/latest/cli_reference/overview.html">OpenShift command line interface</a> (CLI), you can create applications and manage projects from a terminal.</p>
-
-                <h2>Development Resources</h2>
-                  <ul>
-                    <li><a href="http://docs.openshift.org/latest/welcome/index.html">OpenShift Documentation</a></li>
-                    <li><a href="https://github.com/openshift/origin">Openshift Origin GitHub</a></li>
-                    <li><a href="https://github.com/openshift/source-to-image">Source To Image GitHub</a></li>
-                    <li><a href="http://docs.openshift.org/latest/using_images/s2i_images/ruby.html">Getting Started with Ruby on OpenShift</a></li>
-                    <li><a href="http://stackoverflow.com/questions/tagged/openshift">Stack Overflow questions for OpenShift</a></li>
-                    <li><a href="http://git-scm.com/documentation">Git documentation</a></li>
-                  </ul>
-
-
-          </section>
-        </div>
-
-        <footer>
-          <div class="logo"><a href="https://www.openshift.com/"></a></div>
-        </footer>
-</section>
-
+<!-- end slipsum code -->
 
 </body>
 </html>
